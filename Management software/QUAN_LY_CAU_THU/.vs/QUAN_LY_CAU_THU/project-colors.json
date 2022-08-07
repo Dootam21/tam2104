@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "740ccb3a-5e23-4990-aa2e-b5055bc33c96": {
+      "ProjectGuid": "740ccb3a-5e23-4990-aa2e-b5055bc33c96",
+      "DisplayName": "manager_player",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
